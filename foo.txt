@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello you people
+=======
+Hello Ben Kotey
+>>>>>>> newfeature2
 Glad you can join them
 welcome back
 Roundabout
