@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
-Saturday Sunday
->>>>>>> 5fe2558 (fixed foo in fix1)
+Friday Saturday Sunday
 Benjamin Kotey
 Fun about to begin
 Groundhog day
+Changed from someone else
+
